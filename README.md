@@ -61,7 +61,7 @@
 
 ### Linux / macOS
 ```bash
-git clone https://github.com/yourusername/rexcoin
+git clone https://github.com/RexCoins/rexcoin
 cd rexcoin
 mkdir build && cd build
 cmake ..
@@ -71,7 +71,7 @@ cmake --build . -j4
 
 ### Windows
 ```bash
-git clone https://github.com/yourusername/rexcoin
+git clone https://github.com/RexCoins/rexcoin
 cd rexcoin
 mkdir build && cd build
 cmake .. -G "MinGW Makefiles"
