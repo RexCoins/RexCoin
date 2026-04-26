@@ -119,3 +119,8 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 ## 📖 Whitepaper
 See [WHITEPAPER.md](WHITEPAPER.md)
+
+## Contributors
+* [Name/Username](https://github.com/username) - Lead Developer
+* [Name/Username](https://github.com/username) - UI Design
+* 
